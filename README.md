@@ -11,4 +11,5 @@
 
 ### Demo Screeshots
 
-![Age Calculator app Desktop Demo](/Screenshot-01.png "Desktop Demo")
+![Age Calculator app Desktop Demo](./Screenshot-01.png "Desktop Demo")
+
